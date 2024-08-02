@@ -7,24 +7,24 @@ Flutter 28 Takımı
 
 # Takım Üyeleri
 
-- *Rabia Nur Acartürk*: Scrum Master
+- Rabia Nur Acartürk: Scrum Master
 
-- *Rumeysa Semiz*: Developer
+- Rumeysa Semiz: Developer
 
-- *Selime Tatlıpınar*: Product Owner
+- Selime Tatlıpınar: Product Owner
 
-- *Süleyman Güneş*: Developer
+- Süleyman Güneş: Developer
 
-- *Taha Yasin Er*: Developer
+- Taha Yasin Er: Developer
 
 # Ürün İsmi
-***KAHVE KAŞİFİ***
+**KAHVE KAŞİFİ**
 
 <details>
   <summary>Ürün Hakkında</summary>
 
 # Ürün Açıklaması
-  "*Kahve Kaşifi*" uygulaması, kahve dükkanlarında kararsız kalan kullanıcıların kahve tercihlerini anlayarak, onlara en uygun kahve seçeneklerini sunan bir mobil platformdur. Dinamik soru sistemi ve kullanıcı dostu arayüzü ile kişiselleştirilmiş kahve önerileri sunan bu uygulama, geniş kahve yelpazesiyle her damak tadına hitap eder ve kahve seçim sürecini kolaylaştırır.
+  "Kahve Kaşifi" uygulaması, kahve dükkanlarında kararsız kalan kullanıcıların kahve tercihlerini anlayarak, onlara en uygun kahve seçeneklerini sunan bir mobil platformdur. Dinamik soru sistemi ve kullanıcı dostu arayüzü ile kişiselleştirilmiş kahve önerileri sunan bu uygulama, geniş kahve yelpazesiyle her damak tadına hitap eder ve kahve seçim sürecini kolaylaştırır.
 
 # Ürün Özellikleri
   
@@ -55,7 +55,7 @@ Tavsiye sistemleri, kullanıcı geri bildirimlerini analiz ederek önerilerini s
 #### Günümüz AI Uygulamalarındaki Yeri
 Tavsiye sistemleri, sağlık, eğitim ve finans gibi birçok alanda AI teknolojilerinin temelini oluşturur. Kullanıcı verilerinin etkin bir şekilde işlenmesi, kişiselleştirme ve sürekli öğrenme süreçleri, AI'nin başarısında kritik rol oynamaktadır.
 
-*Sonuç olarak, tavsiye sistemleri AI sistemlerinin atası olarak kabul edilebilir ve onların AI teknolojilerine olan katkısı büyüktür*
+Sonuç olarak, tavsiye sistemleri AI sistemlerinin atası olarak kabul edilebilir ve onların AI teknolojilerine olan katkısı büyüktür
 
 # Hedef Kitle
 Kahve Kaşifi Hedef Kitlesi
@@ -115,8 +115,10 @@ Tanışma toplantısı WhatsApp üzerinden yapıldı. Daily Scrum toplantıları
 
 ## Toplantı Screenshot (WhatsApp & Discord & Gmail)
 
-![image](https://github.com/TahaErr/OUA-BOTCAMP-28/assets/158434676/a6394354-1275-4fcf-8aec-75bcb4461560)
 ![image1](https://github.com/TahaErr/OUA-BOTCAMP-28/assets/158434676/7abfadb5-7a61-4aa4-a941-490c620c15f5)
+
+![dürüm1](https://github.com/user-attachments/assets/1969a47b-46b3-41e0-9169-c525c184be6e)
+
 ![image](https://github.com/TahaErr/OUA-BOTCAMP-28/assets/158434676/88c69b36-9469-48b8-a1f0-53c9c379da70)
 
 
@@ -193,8 +195,6 @@ Tanışma toplantısı WhatsApp üzerinden yapıldı. Daily Scrum toplantıları
 ## Ürün durumu - geliştirme aşamasındaki uygulamanın videosu:
 
 
-
-
 https://github.com/user-attachments/assets/751d337a-162b-4615-ad6d-42e1d74af397
 
 
@@ -257,12 +257,17 @@ https://github.com/user-attachments/assets/751d337a-162b-4615-ad6d-42e1d74af397
 ## Ürün durumu - uygulamanın videosu:
 
 
+
+https://github.com/user-attachments/assets/4e4b1d07-46fd-412a-8f02-c53fd9c233a1
+
+
+
 ## Sprint 3 - Review:
 - Proje içerisindeki bazı fikirler kapsam dışı/gelecekte yapılacak işler olarak yeniden düzenlenmiştir. Projenin backend-frontend bağlantısı kurulmuştur ve detaylar tamamlanarak proje tamamlanmıştır. 
 
 
 ## Sprint Review katılımcıları:
-- Rabia Nur Acartürk, Rumeysa Semiz, Selime Tatlıpınar, Süleyman Güneş ile Taha Yasin Er
+- Taha Yasin Er, Süleyman Güneş, Selime Tatlıpınar, Rumeysa Semiz ile Rabia Nur Acartürk. 
 
 
 ## Sprint 3 - Retrospective:
